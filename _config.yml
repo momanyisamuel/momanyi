@@ -28,7 +28,7 @@ twitter_username: momanyisam
 github_username: momanyisamuel
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
